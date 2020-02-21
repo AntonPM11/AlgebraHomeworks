@@ -1,5 +1,4 @@
                                                    # AlgebraHomeworks #
-|    1 Homework    |   2 Homework   |   3 Homework   |
-|[Tasks](https://user-images.githubusercontent.com/58429452/75029761-57f47200-54ab-11ea-8ce8-c0739b838327.png) and [solving](https://user-images.githubusercontent.com/58429452/75030007-e0731280-54ab-11ea-8b5c-88d04b7bb7d4.jpg)           |                |                |
+| Homework 1 [tasks 1](https://user-images.githubusercontent.com/58429452/75029761-57f47200-54ab-11ea-8ce8-c0739b838327.png), [tasks 2](https://user-images.githubusercontent.com/58429452/75030167-39db4180-54ac-11ea-9136-a4b0a3aaa26e.png) and [solving](https://user-images.githubusercontent.com/58429452/75030007-e0731280-54ab-11ea-8b5c-88d04b7bb7d4.jpg) | Homework 2 [tasks 1](https://user-images.githubusercontent.com/58429452/75030201-495a8a80-54ac-11ea-9c59-b3726ffb9cbd.png), [tasks 2](https://user-images.githubusercontent.com/58429452/75030227-58413d00-54ac-11ea-9827-839f6198d668.png) and [solving 1](https://user-images.githubusercontent.com/58429452/75030270-6d1dd080-54ac-11ea-986b-2097e9368d14.jpg), [solving 2](https://user-images.githubusercontent.com/58429452/75030303-7dce4680-54ac-11ea-9666-27220bebb15c.png) |                |
 |------------------|----------------|----------------|
 |
